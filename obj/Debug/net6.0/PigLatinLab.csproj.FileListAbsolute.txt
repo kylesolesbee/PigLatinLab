@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\bin\Debug\net6.0\PigLatinLab.exe
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\bin\Debug\net6.0\PigLatinLab.deps.json
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\bin\Debug\net6.0\PigLatinLab.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\bin\Debug\net6.0\PigLatinLab.dll
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\bin\Debug\net6.0\PigLatinLab.pdb
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.dll
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\refint\PigLatinLab.dll
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.pdb
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\PigLatinLab.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\PigLatinLab\obj\Debug\net6.0\ref\PigLatinLab.dll
